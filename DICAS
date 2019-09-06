@@ -14,7 +14,7 @@ Em um dos capítulos deste sítio há uma função que encontra o valor de um el
 // e um vetor v e devolve o valor de um 
 // elemento máximo de v[0..n-1].
 
-int max (int n, int v[]){
+int max (int n, int v[]) { 
    int x = v[0];
    for (int j = 1; j < n; j += 1)
       if (x < v[j]) 
