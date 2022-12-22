@@ -1,0 +1,439 @@
+# depslib dependency file v1.0
+1566245108 source:c:\users\usuario\music\cadastrofuncionarios-master\controle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567131702 h"
+
+1566243396 c:\users\usuario\music\cadastrofuncionarios-master\controle\controle.c
+	<stdio.h>
+	<stdlib.h>
+	"controle.h"
+
+1566246533 c:\users\usuario\music\cadastrofuncionarios-master\controle\controle.h
+
+1566249645 source:c:\users\usuario\music\cadastrofuncionarios-master\controle\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566239268 source:j:\ed i\tp 1\cadastrofuncionarios-master\controle\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566246534 j:\ed i\tp 1\cadastrofuncionarios-master\controle\controle.h
+
+1566245110 source:j:\ed i\tp 1\cadastrofuncionarios-master\controle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566239268 source:f:\paulo henrique\cadastrofuncionarios-master\controle\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566246534 f:\paulo henrique\cadastrofuncionarios-master\controle\controle.h
+
+1566245110 source:f:\paulo henrique\cadastrofuncionarios-master\controle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566244080 source:c:\users\usuario\desktop\cadastrofuncionarios-master\controle\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566243231 c:\users\usuario\desktop\cadastrofuncionarios-master\controle\controle.h
+
+1566243497 source:c:\users\usuario\desktop\cadastrofuncionarios-master\controle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566314182 source:c:\users\nascto\documents\ed i\tp 1\cadastrofuncionarios-master\controle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566314530 c:\users\nascto\documents\ed i\tp 1\cadastrofuncionarios-master\controle\controle.h
+
+1566315189 source:c:\users\nascto\documents\ed i\tp 1\cadastrofuncionarios-master\controle\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567131701 source:d:\mega\tsi\cadastrofuncionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567131701 d:\mega\tsi\cadastrofuncionarios\controle.h
+
+1567131701 source:d:\mega\tsi\cadastrofuncionarios\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566348720 source:j:\ed i\tp 1\cadastrofuncionarios\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566347566 j:\ed i\tp 1\cadastrofuncionarios\controle.h
+
+1566344542 source:j:\ed i\tp 1\cadastrofuncionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566394308 source:c:\users\usuario\music\cadastrofuncionarios\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566394491 c:\users\usuario\music\cadastrofuncionarios\controle.h
+
+1566344542 source:c:\users\usuario\music\cadastrofuncionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566422221 source:c:\users\usuario\desktop\cadastrofuncionarios\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566394492 c:\users\usuario\desktop\cadastrofuncionarios\controle.h
+
+1566421354 source:c:\users\usuario\desktop\cadastrofuncionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566911982 source:c:\users\usuario\downloads\cadastrofuncionarios-master\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566906193 c:\users\usuario\downloads\cadastrofuncionarios-master\controle.h
+
+1566870825 source:c:\users\usuario\downloads\cadastrofuncionarios-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566518679 c:\users\usuario\downloads\cadastrofuncionarios-master\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566866881 source:/home/nascto7/MEGA/tsi/CadastroFuncionarios/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566867022 /home/nascto7/MEGA/tsi/CadastroFuncionarios/controle.h
+
+1567128827 source:/home/gotcha/Documentos/CadastroFuncionarios/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567129413 /home/gotcha/Documentos/CadastroFuncionarios/controle.h
+
+1567130499 source:/home/gotcha/Documentos/CadastroFuncionarios/controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1566870826 source:f:\paulo henrique\cadastrofuncionarios  b)att\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1566998451 f:\paulo henrique\cadastrofuncionarios  b)att\controle.h
+
+1567003359 source:f:\paulo henrique\cadastrofuncionarios  b)att\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567022437 source:c:\users\usuario\desktop\cadastrofuncionarios  c)alterar dados em teste\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567020653 c:\users\usuario\desktop\cadastrofuncionarios  c)alterar dados em teste\controle.h
+
+1567022319 source:c:\users\usuario\desktop\cadastrofuncionarios  c)alterar dados em teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567022850 source:c:\users\nascto\desktop\cadastrofuncionarios  c) alterarfunc para entender essa porra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567020654 c:\users\nascto\desktop\cadastrofuncionarios  c) alterarfunc para entender essa porra\controle.h
+
+1567030634 source:c:\users\nascto\desktop\cadastrofuncionarios  c) alterarfunc para entender essa porra\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567022850 source:c:\users\nascto\desktop\cadastrofuncionarios  c) ready\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567039824 c:\users\nascto\desktop\cadastrofuncionarios  c) ready\controle.h
+
+1567039860 source:c:\users\nascto\desktop\cadastrofuncionarios  c) ready\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567029590 source:/home/aluno/Documentos/CadastroFuncionarios  d) Completo/controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567029026 /home/aluno/Documentos/CadastroFuncionarios  d) Completo/controle.h
+
+1567012050 source:/home/aluno/Documentos/CadastroFuncionarios  d) Completo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567084672 source:j:\testando win\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567084672 j:\testando win\controle.h
+
+1567084672 source:j:\testando win\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567084672 source:c:\users\usuario\desktop\testando win\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567084672 c:\users\usuario\desktop\testando win\controle.h
+
+1567084672 source:c:\users\usuario\desktop\testando win\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567079405 source:/home/aluno/Documentos/testando win2 (1)/controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567077864 /home/aluno/Documentos/testando win2 (1)/controle.h
+
+1567073872 source:/home/aluno/Documentos/testando win2 (1)/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567087673 source:f:\paulo henrique\ed i\tp 1\cadastrofuncionario f) ready\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567087115 f:\paulo henrique\ed i\tp 1\cadastrofuncionario f) ready\controle.h
+
+1567084672 source:f:\paulo henrique\ed i\tp 1\cadastrofuncionario f) ready\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567131702 source:f:\paulo henrique\cadastrofuncionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567193793 f:\paulo henrique\cadastrofuncionarios\controle.h
+
+1567193914 source:f:\paulo henrique\cadastrofuncionarios\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567131702 source:j:\ed i\tp 1\cadastrofuncionarios h) ready\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567453690 j:\ed i\tp 1\cadastrofuncionarios h) ready\controle.h
+
+1567195850 source:j:\ed i\tp 1\cadastrofuncionarios h) ready\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567596100 source:c:\users\usuario\desktop\cadastrofuncionarios h) ready\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567453690 c:\users\usuario\desktop\cadastrofuncionarios h) ready\controle.h
+
+1567131702 source:c:\users\usuario\desktop\cadastrofuncionarios h) ready\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+
+1567731511 source:/home/gotcha/Documentos/CadastroFuncionarios/controle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"controle.h"
+
+1567731511 /home/gotcha/Documentos/CadastroFuncionarios/controle.h
+
+1567731508 source:/home/gotcha/Documentos/CadastroFuncionarios/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"controle.h"
+

@@ -1,7 +1,7 @@
 #ifndef CONTROLE_H_INCLUDED
 #define CONTROLE_H_INCLUDED
 
-/// Constantes Estrutura Funcionários
+/// Constantes Estrutura Funcionï¿½rios
 #define MATRICULA 10
 #define NOME 60
 #define DATA 11
@@ -20,11 +20,11 @@
 
 
 
-                    /* ---------------------------------------------------------- SEÇÃO DE ESTRUTURAS USADAS NO PROGRAMA -------------------------------------------------------------- */
+                    /* ---------------------------------------------------------- SECAO DE ESTRUTURAS USADAS NO PROGRAMA -------------------------------------------------------------- */
 
 
 
-/// Estrutura Funcionários
+/// Estrutura Funcionarios
 typedef struct{
     long int id, id_departamento;
     char matricula[MATRICULA], nome[NOME], dataNascimento[DATA],
@@ -65,7 +65,7 @@ typedef struct{
 }THistoricoSalario;
 
 
-                                /* ---------------------------------------------------------- SEÇÃO DE ARQUIVOS USADOS NO PROGRAMA -------------------------------------------------------------- */
+                                /* ---------------------------------------------------------- SECAO DE ARQUIVOS USADOS NO PROGRAMA -------------------------------------------------------------- */
 
 
 
@@ -73,27 +73,27 @@ FILE *arq_func, *arq_hist_func, *arq_dept, *arq_hist_dept, *arq_hist_sal;
 
 
 
-                                /* ---------------------------------------------------------- SEÇÃO DE FUNÇÕES USADAS NO PROGRAMA -------------------------------------------------------------- */
+                                /* ---------------------------------------------------------- SECAO DE FUNï¿½ï¿½ES USADAS NO PROGRAMA -------------------------------------------------------------- */
 
 
 
-/// FUNÇÃO QUE PRINTA O MENU DE OPÇÕES NA TELA
+/// FUNCAO QUE PRINTA O MENU DE OPCOES NA TELA
 void menu();
 
-/// FUNÇÕES PRINCIPAIS DE CADASTRO
+/// FUNCOES PRINCIPAIS DE CADASTRO
 int cadastro_dept(FILE*);
 int cadastro_func(FILE*, int);
 
-/// FUNÇÃO PARA ALTERAR DADOS DE FUNCIONÁRIOS
+/// FUNCAO PARA ALTERAR DADOS DE FUNCIONARIOS
 void alteraDadosFunc(FILE*);
 void alterarDeptFunc(FILE*);
 void alterarGerenteDept(FILE*);
 void alterarSalarioFunc(FILE*);
 
-/// FUNÇÃO PARA PROCURAR FUNCIONÁRIO
+/// FUNCAO PARA PROCURAR FUNCIONARIO
 void consultaFunc(FILE*);
 
-/// FUNÇÕES UTILIZADAS PARA FAZER DIVERSAS VERIFICACOES
+/// FUNCOES UTILIZADAS PARA FAZER DIVERSAS VERIFICACOES
 int verificaLetra(char*);
 void retiraEnter(char*);
 int verificaNum(char*);
@@ -103,14 +103,14 @@ int verificaCPF(char*);
 int verificaId_Dept(FILE*,int);
 int verificaId_Func(FILE*, long int);
 
-/// FUNÇÕES PARA EXIBIÇÃO DE ALGUNS DADOS
+/// FUNCOES PARA EXIBICAO DE ALGUNS DADOS
 void exibeFunc(FILE*, long int);
 void exibeDept(FILE*);
 void FolhaPag(FILE*);
 void relatorioDeptFunc(FILE*);
 void relatorioDeptGer(FILE*);
 
-/// FUNÇÕES QUE DEVEMOS LEMBRAR DE APAGAR
+/// FUNCOES QUE DEVEMOS LEMBRAR DE APAGAR
 void exibeHistFunc(FILE*);
 void exibeHistSal(FILE*);
 
